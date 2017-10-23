@@ -38,7 +38,11 @@ To convert the average rate of change (the slope) to an instantaneous rate of ch
 
 ![image](https://github.com/MarkMikow/MyFiles/blob/master/img6.png)
 
-This is the formal definition of the derivative and means that you are taking the distance h and shrinking it down to an infinitesimally small amount. You still have a slope, but its end-points are infinitesimally close to each other. So close, in fact, that they appear as one point, or as one instant, in time. 
+This is the formal definition of the derivative and means that you are taking the distance h and shrinking it down to an infinitesimally small amount. You still have a slope, but its end-points are infinitesimally close to each other. So close, in fact, that they appear as one point, or as one instant, in time.
+
+![image](https://github.com/ErgoShrimp/fuzzy-octo-broccoli/blob/master/Myfile.jpg)
+
+This is another definition of a derivative which is more convient for finding the derivative at a single point (a).
 
 Since a line tangent to a point on a graph intersects the graph at only one point, the derivative is also defined as the slope of the tangent line to any point on a graph. In the example of the above graph, the derivative of each point is the instantaneous speed at which you are traveling.
 
